@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaahhhrav15" alt="aaahhhrav15" /></a> </p>
 
+- 🌱 2nd Year BTech student at D.J. Sanghvi College Of Engineering.
+   
 - 🌱 I’m currently learning **Next JS.**
 
 - 👯 I’m looking to collaborate on **full stack projects.**
