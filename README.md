@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an **Organ Donation App.**
 
-- 🌱 I’m currently learning **Next JS.**
+- 🌱 I’m currently learning **Springboot.**
 
 - 👯 I’m looking to collaborate on **fullstack projects.**
 
