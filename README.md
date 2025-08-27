@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lodhaaarav12005@gmail.com.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rz8KLA2MW9jLltgytd0QgBicPvbqJ-6R/view](https://drive.google.com/file/d/1rz8KLA2MW9jLltgytd0QgBicPvbqJ-6R/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1BRINaIRq6mnEExTu5cU6x6qh-TV0s6HK)
 
 - ⚡ Fun fact **I think I am funny.**
 
