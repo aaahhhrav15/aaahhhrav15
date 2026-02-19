@@ -1,40 +1,80 @@
-<h1 align="center">Hi 👋, I'm Aarav Lodha</h1>
-<h3 align="center">Backend-focused Full Stack Developer from India</h3>
+<h1 align="center">Aarav Lodha</h1>
+<h3 align="center">Software Engineer</h3>
 
-- 🔭 Currently building **MuscleCRM**
-- 🌱 Learning **Spring Boot**
-- 👯 Open to collaboration on full-stack projects
-- 📫 lodhaaarav12005@gmail.com
-- 📄 [Resume](https://drive.google.com/file/d/1QxPiv8t5QU0rcKwgxrBn4YUvqkSbtoXC/view)
-
----
-
-### Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/aaravlodha"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://www.hackerrank.com/lodhaaarav12005"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
-<a href="https://www.leetcode.com/aaahhhrav"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
+<p align="center">
+Final-year B.Tech Computer Engineering student (CGPA: 9.28) — graduating June 2026<br/>
+Full-stack developer with strong foundations in Data Structures, System Design, and scalable application development
 </p>
 
 ---
 
-### Tech Stack
+## About Me
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,express,spring,mongodb,mysql,postgres,redis,docker,aws,linux,git,nginx,python,cpp,c" />
+- Software Engineer Intern at MeeraAI Tech
+- Strong problem-solving skills (800+ DSA problems solved)
+- Experience building production-grade web applications deployed on AWS
+- Comfortable working across the full stack — backend, frontend, databases, and deployment
+- Interested in building reliable, scalable software systems
 
 ---
 
-### GitHub Stats
+## Technical Skills
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=aaahhhrav15&show_icons=true&theme=default" />
-</p>
+### Languages
+Java • C • C++ • JavaScript • TypeScript • Python • SQL
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaahhhrav15&layout=compact" />
-</p>
+### Frameworks & Libraries
+React.js • Next.js • Node.js • Express.js • Spring Boot • Tailwind CSS • Redux
 
-<p>
-<img src="https://streak-stats.demolab.com?user=aaahhhrav15" />
-</p>
+### Databases
+MongoDB • MySQL • PostgreSQL • Redis
+
+### Cloud & DevOps
+AWS • Docker • Nginx • CI/CD • Linux
+
+### Tools
+Git • Postman • Prisma • Socket.io • Puppeteer
+
+---
+
+## Experience
+
+### Software Engineer Intern — MeeraAI Tech (May 2025 – Present)
+
+- Developing a multi-industry CRM platform used across gyms and wellness clubs
+- Building scalable backend services, dashboards, and business websites
+- Implemented authentication systems, billing workflows, and operational features
+- Deployed and maintained production applications on AWS with high uptime
+
+---
+
+### Software Engineer Intern — Smowcode (June 2024 – July 2024)
+
+- Automated JSON schema generation for ESP-IDF configurations
+- Optimized parsing performance by 35%
+- Improved development workflow and configuration reliability
+
+---
+
+## Problem Solving
+
+- Solved 800+ algorithmic problems across LeetCode, Codeforces, GeeksforGeeks, and HackerRank
+- Strong foundation in data structures, algorithms, and complexity analysis
+- Experience with competitive programming and hackathons
+
+---
+
+## Education
+
+**B.Tech — Computer Engineering**  
+Dwarkadas J. Sanghvi College of Engineering, Mumbai  
+CGPA: 9.28 | Expected Graduation: June 2026
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/aaravlodha
+- LeetCode: https://leetcode.com/aaahhhrav
+- HackerRank: https://www.hackerrank.com/lodhaaarav12005
+- Email: lodhaaarav12005@gmail.com
